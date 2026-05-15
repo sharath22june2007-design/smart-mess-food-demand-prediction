@@ -56,8 +56,12 @@ Output
 
 
 
+
 ![Graph](output_screenshot.png)
 
+
+
+![Prediction](graph_screenshot.png)
 
 
 Team
