@@ -52,7 +52,13 @@ MAE and R2 Score are printed after evaluation
 
 
 Output
+
+
+
+
 ![Graph](output_screenshot.png)
+
+
 
 Team
 
