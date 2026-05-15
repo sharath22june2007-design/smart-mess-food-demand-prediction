@@ -61,7 +61,7 @@ Output
 
 
 
-![Prediction](graph_screenshot.png)
+![Prediction](graph__screenshot.png)
 
 
 Team
