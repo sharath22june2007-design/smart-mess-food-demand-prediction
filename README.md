@@ -66,5 +66,9 @@ Output
 
 Team
 
-Department: Computer Science / IT
+Department: Computer Science and engineering
+Sharan H.S
+Sharath T
+Prajwal S.M
+Rohith N.V
 Subject: ETC515O - Introduction to AI and Its Applications
